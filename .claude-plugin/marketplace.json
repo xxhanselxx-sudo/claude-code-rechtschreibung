@@ -1,0 +1,13 @@
+{
+  "name": "claude-code-rechtschreibung",
+  "owner": {
+    "name": "xxhanselxx-sudo"
+  },
+  "plugins": [
+    {
+      "name": "rechtschreibung",
+      "source": "./",
+      "description": "Rechtschreibung im Eingabefeld: tauscht Tippfehler beim Tippen gegen das wahrscheinlichste richtige Wort (hunspell, Deutsch)."
+    }
+  ]
+}

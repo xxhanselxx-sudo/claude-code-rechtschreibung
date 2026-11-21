@@ -1,0 +1,17 @@
+{
+  "name": "rechtschreibung",
+  "version": "0.3.0",
+  "description": "Tauscht beim Tippen im Eingabefeld falsche Wörter gegen das wahrscheinlichste richtige aus und merkt sich, was man zurückschreibt.",
+  "author": {
+    "name": "xxhanselxx-sudo"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/xxhanselxx-sudo/claude-code-rechtschreibung",
+  "keywords": [
+    "rechtschreibung",
+    "spellcheck",
+    "deutsch",
+    "hunspell",
+    "autocorrect"
+  ]
+}
